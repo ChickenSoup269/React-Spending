@@ -1,0 +1,3 @@
+# Bỏ qua các file không cần thiết
+node_modules/
+dist/

@@ -1,0 +1,6 @@
+# Config editor để chuẩn hóa cấu hình editor
+# 🔴 Để VS Code hiểu được file này thì mấy bro cài Extension là EditorConfig for VS Code nhé
+# Mục đích là cấu hình các config đồng bộ các editor với nhau nếu dự án có nhiều người tham gia.
+[*]
+indent_size = 2
+indent_style = space
