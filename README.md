@@ -4,6 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,typescript)](https://skillicons.dev)
 
+- Dự án này sẽ mang những chức năng chính của người tiền nhiệm và tiếp tục cải tiến hơn.
 - Đây là dự án tương tự python spending của mình đã public trước đây nhưng có phần cải tiến hơn [Đang cập nhật...]
 - This is a project similar to my previously published python spending project
   but with some improvements [Updating...]
