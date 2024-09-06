@@ -1,0 +1,18 @@
+@import 'variables';
+@import 'mixins';
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #000000;
+  text-decoration: none;
+
+  :hover {
+    background: none;
+  }
+}

@@ -10,7 +10,12 @@ export default defineConfig({
     port: 3000
   },
   css: {
-    devSourcemap: true
+    preprocessorOptions: {
+      scss: {
+        // Tự động import biến, mixin cho tất cả các file SCSS
+        additionalData: `@import "src/styles/_variables.scss";`
+      }
+    }
   },
   resolve: {
     alias: {
