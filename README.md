@@ -1,4 +1,4 @@
-# React-Spending
+# React-Spending - Đang trong quá trình phát triển - Updating...
 
 [![Generic badge](https://img.shields.io/badge/StatusProject-BETA-green.svg)](https://shields.io/) [![1.0.1!](https://img.shields.io/badge/Version-NONE-1abc9c.svg)](https://GitHub.com/Naereen/ama) ![Maintainer](https://img.shields.io/badge/React-Update-blue) ![Maintainer](https://img.shields.io/badge/Vite-Update-yellow) ![Maintainer](https://img.shields.io/badge/typescript-Update-red)
 
