@@ -81,7 +81,7 @@ Start the server
 
 - Updating...
 
-## Screenshots
+## Screenshots - Figma desgin
 
 <kbd>
 <img src="./src/assets/images/figma/Screenshot 2024-09-07 193118.png" alt="Loading..." />
