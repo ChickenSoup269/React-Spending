@@ -83,7 +83,13 @@ Start the server
 
 ## Screenshots
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRqVzvKNxNa_V032VUunXlTUziXbXq9PlBag&s" alt="Loading..." />
+<kbd>
+<img src="./src/assets/images/figma/Screenshot 2024-09-07 193118.png" alt="Loading..." />
+</kbd>
+
+<kbd>
+<img src="./src/assets/images/figma/Screenshot 2024-09-07 193128.png" alt="Loading..." />
+</kbd>
 
 ## Acknowledgements
 
