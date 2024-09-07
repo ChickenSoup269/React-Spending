@@ -2,7 +2,11 @@
 import './navbar.scss'
 
 const Navbar = () => {
-  return <></>
+  return (
+    <>
+      <div className='wrapper-navbar'></div>
+    </>
+  )
 }
 
 export default Navbar
