@@ -84,11 +84,11 @@ Start the server
 ## Screenshots - Figma desgin
 
 <kbd>
-<img src="./src/assets/images/figma/Screenshot 2024-09-07 193118.png" alt="Loading..." />
+<img src="./Frontend/./src/assets/images/figma/Screenshot 2024-09-07 193118.png" alt="Loading..." width="700px" />
 </kbd>
 
 <kbd>
-<img src="./src/assets/images/figma/Screenshot 2024-09-07 193128.png" alt="Loading..." />
+<img src="./Frontend/./src/assets/images/figma/Screenshot 2024-09-07 193128.png" alt="Loading..." width="700px" />
 </kbd>
 
 ## Acknowledgements
