@@ -1,8 +1,10 @@
 # React-Spending - ⭕ Trong quá trình phát triển - Updating...
 
-[![Generic badge](https://img.shields.io/badge/StatusProject-BETA-green.svg)](https://shields.io/) [![1.0.1!](https://img.shields.io/badge/Version-NONE-1abc9c.svg)](https://GitHub.com/Naereen/ama) ![Maintainer](https://img.shields.io/badge/React-Update-blue) ![Maintainer](https://img.shields.io/badge/Vite-Update-yellow) ![Maintainer](https://img.shields.io/badge/typescript-Update-red)
+[![Generic badge](https://img.shields.io/badge/StatusProject-BETA-green.svg)](https://shields.io/) [![1.0.1!](https://img.shields.io/badge/Version-NONE-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vite,typescript,nodejs,scss,mongodb)](https://skillicons.dev)
+
+![Maintainer](https://img.shields.io/badge/React-Update-blue) ![Maintainer](https://img.shields.io/badge/Vite-Update-yellow) ![Maintainer](https://img.shields.io/badge/typescript-Update-red) ![Maintainer](https://img.shields.io/badge/nodejs-Update-green) ![Maintainer](https://img.shields.io/badge/sass-Update-pink) ![Maintainer](https://img.shields.io/badge/mongoDB-Update-none)
 
 - Dự án này sẽ mang những chức năng chính của người tiền nhiệm và tiếp tục cải tiến hơn.
 - Đây là dự án tương tự python spending của mình đã public trước đây nhưng có phần cải tiến hơn [Đang cập nhật...]
