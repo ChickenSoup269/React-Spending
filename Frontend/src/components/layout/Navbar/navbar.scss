@@ -1,0 +1,70 @@
+li,
+a,
+button {
+  font-weight: 500;
+  font-size: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.wrapper-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.nav__links {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+li a {
+  transition: all 0.3s ease 0s;
+}
+
+li a:hover {
+  color: #0088a9;
+}
+
+.btn-login {
+  padding: 9px 25px;
+  background-color: rgba(0, 136, 169, 1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+
+  :hover {
+    background-color: rgba(0, 136, 169, 0.8);
+  }
+}
+
+// search bar
+
+// button login & arrow down info
+.btn-user {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  p {
+    padding-left: 20px;
+  }
+
+  .icon-arrow-down {
+    :hover {
+      cursor: pointer;
+    }
+  }
+}
+
+// reponsive
